@@ -1,1 +1,144 @@
 /* Los estilos de tu proyecto */
+
+/*Estilos a barra de navegacion y primera seccion*/
+.cover {
+	background-image: url(../assets/images/taxi.jpg);
+	background-size: cover;
+	height: 95vh;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding: 0;
+}
+
+.navbar {
+	margin:0;
+	padding: 5vh;
+}
+
+.cover .col-lg-5 div{
+	background: #F7B617;
+	color:#FFFFFF;
+	padding: 1vh;
+
+} 
+
+.cover hr{
+	background-color: #FFFFFF;
+  	display: inline-block;
+  	height: 1px;
+  	width: 30%;
+  	border: none;
+}
+
+.cover img{
+	width:80px;
+	padding: 2%;
+}
+.cover .row {
+	width: 100%;
+}
+
+.white-btn{
+	background-color: #FFFFFF;
+	color:#11010D;
+	font-weight: bold;
+	border: none;
+	border-radius: 4px;
+	padding: 1%;
+}
+
+.yellow-cover {
+	background: #F7B617;
+	color:#FFFFFF;
+	height: 60vh;
+}
+
+.yellow-cover .col-lg-10 {
+	border: solid 1px #FFFFFF;
+	height:50vh;
+	margin-top: 5vh;
+	padding: 5vh;
+	padding-left: 15vh;
+}
+
+.yellow-cover img {
+	height: 40vh;
+}
+
+.driver {
+	background-image: url(../assets/images/conduce.jpg);
+	background-size: cover;
+	height: 50vh;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.driver .col-lg-4 {
+	height: 50vh;
+	padding: 5vh;
+	background-color: rgb(0, 0, 0);
+
+}
+
+.driver p {
+	color: #FFFFFF;
+}
+
+.driver button {
+	background: #F7B617;
+	border: none;
+	border-radius: 6px;
+	padding: 5px;
+}
+
+.yellow-cover2 {
+	background: #F7B617;
+}
+/*formulario*/
+.yellow-cover2 .col-lg-4 {
+	height: 50vh;
+	padding: 5vh;
+}
+
+.yellow-cover2 .col-lg-4 {
+	height: 50vh;
+	padding: 5vh;
+}
+
+.yellow-cover2 .iframe-container {
+	padding: 1vh;
+	width: 50vh;
+	height: 40vh;
+	border: solid #FFFFFF 1px;
+}
+.yellow-cover2 .col-lg-4 iframe {
+	width: 48vh;
+	height: 38vh;
+}
+
+footer {
+	background-color: #2B2B2B;
+	color: #FFFFFF;
+	padding: 8vh;
+}
+
+footer ul {
+	list-style: none;
+}
+
+.social-media div {
+	
+	padding-top: 70%;
+}
+
+.stores div img {
+	width: 130px;
+}
+	
+.stores div {
+	padding-top:40%;
+}
+
+.copyright {
+	font-size:0.7em;
+}
