@@ -15,27 +15,24 @@
 	padding: 5vh;
 }
 
-.cover .col-lg-5 div{
+.cover .margin {
 	background: #F7B617;
 	color:#FFFFFF;
-	padding: 1vh;
-
+	margin-top: 10vh;
+	height: 45vh;
+	margin-top: 12%;
 } 
 
-.cover hr{
-	background-color: #FFFFFF;
-  	display: inline-block;
-  	height: 1px;
-  	width: 30%;
-  	border: none;
+.line {
+   display: inline-block;
+   border: 1px solid white;
+   width: 10vh;
+   margin-bottom: 5px;
 }
 
 .cover img{
 	width:80px;
 	padding: 2%;
-}
-.cover .row {
-	width: 100%;
 }
 
 .white-btn{
